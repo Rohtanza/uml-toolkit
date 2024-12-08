@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SimpleAppFramework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SimpleAppFramework/dist/SimpleAppFramework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="UMLDesignApplication-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PropertiesManager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XMLUtilities.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javax.json-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
