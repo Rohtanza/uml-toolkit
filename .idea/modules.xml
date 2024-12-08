@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MainJClass/MainJClass.iml" filepath="$PROJECT_DIR$/MainJClass/MainJClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SCDD.iml" filepath="$PROJECT_DIR$/.idea/SCDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SCDMain/SCDMain.iml" filepath="$PROJECT_DIR$/SCDMain/SCDMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainJClass/work/work.iml" filepath="$PROJECT_DIR$/MainJClass/work/work.iml" />
+    </modules>
+  </component>
+</project>
