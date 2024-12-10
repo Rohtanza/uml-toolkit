@@ -92,15 +92,6 @@ The project incorporates the following technologies and libraries:
 
 ---
 
-## **Screenshots**
-### Main Interface
-![Main Interface](./assets/main-interface.png)
-
-### Toolbox
-![Toolbox](./assets/toolbox.png)
-
----
-
 ## **Future Enhancements**
 - Add support for sequence and use-case diagrams.
 - Provide more styling options for UML elements.
